@@ -25,7 +25,7 @@ The notebooks included are used for data collection, cleaning, processing, and a
 To run the notebooks or replicate the analysis, you typically need:
 
 - Python (version 3.x)  
-- Jupyter Notebook or Jupyter Lab  
+- Jupyter Notebook or Google Colab
 - Some common libraries, e.g.:
   - pandas  
   - numpy  
