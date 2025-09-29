@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and data for performing sentiment analysis related to the **TNI Bill**. The goal is to analyze how people express opinions—positive, negative, or neutral—about the proposed or existing TNI (Tentara Nasional Indonesia) legislation or discussions around it.
+This repository contains code and data for performing sentiment analysis related to the **TNI Bill**. The goal is to analyze how people express opinions positive, negative, or neutral about the proposed or existing TNI (Tentara Nasional Indonesia) legislation or discussions around it.
 
 The notebooks included are used for data collection, cleaning, processing, and applying sentiment classification models. Intended mainly for academic/research / thesis use.
 
